@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="task_management_n_to_do_list"><![CDATA[Task Management \n& To-Do List]]></string>
+</resources>
